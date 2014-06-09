@@ -37,9 +37,9 @@ import android.os.Vibrator;
 import android.provider.Settings;
 import android.util.Log;
 
-import com.android.internal.util.liquid.QuietHoursHelper;
-import com.android.internal.util.liquid.DeviceUtils;
-import com.android.internal.util.liquid.TorchConstants;
+import com.android.internal.util.centauri.QuietHoursHelper;
+import com.android.internal.util.centauri.DeviceUtils;
+import com.android.internal.util.centauri.TorchConstants;
 import com.android.internal.telephony.Phone;
 /**
  * Ringer manager for the Phone app.
